@@ -8,8 +8,6 @@
     font-size: 80px;
     font-family: 'Bebas Neue', cursive;
 }
-
-}
 .other-bold{
     font-family: 'Roboto', sans-serif;
 }
@@ -20,6 +18,16 @@
     background-color:white;
     border:0;
 }
-.categories img{
-    width: 100px;
+.gbimg{
+    background-color: #F1F1F1;
+    border-radius: 52px;
+}
+.button-colorr{
+    margin-left: auto;
+    width: 146px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: #3D4FF3 !important;
+    border-color: aquamarine !important;
 }
