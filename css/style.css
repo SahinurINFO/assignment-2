@@ -4,3 +4,22 @@
 .text-coler-costom{
     color: #FA804C;
 }
+.title-costom{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+}
+.other-bold{
+    font-family: 'Roboto', sans-serif;
+}
+.nice-card{
+    border: 0;
+}
+.nice-card-footer{
+    background-color:white;
+    border:0;
+}
+.categories img{
+    width: 100px;
+}
