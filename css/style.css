@@ -22,7 +22,7 @@
     background-color: #F1F1F1;
     border-radius: 52px;
 }
-.button-colorr{
+.button-color{
     margin-left: auto;
     width: 146px;
     padding: 15px;
@@ -30,4 +30,8 @@
     color: white;
     background-color: #3D4FF3 !important;
     border-color: aquamarine !important;
+}
+.last-card{
+    border-radius: 25px;
+    padding: 13px 50px;
 }
